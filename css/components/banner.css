@@ -1,0 +1,9 @@
+.banner h1, 
+.banner p, 
+.banner a {
+    color: white;
+}
+
+.banner > .container {
+    padding: 100px 0;
+}
